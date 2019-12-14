@@ -2,3 +2,4 @@ binary-data/bc4p/
 binary-data/ec1909/
 binary-data/asgp/
 binary-data/nppp/
+binary-data/sgp/
