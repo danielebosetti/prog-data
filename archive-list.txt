@@ -3,3 +3,4 @@ binary-data/ec1909/
 binary-data/asgp/
 binary-data/nppp/
 binary-data/sgp/
+binary-data/nppjv/
