@@ -4,3 +4,4 @@ binary-data/asgp/
 binary-data/nppp/
 binary-data/sgp/
 binary-data/nppjv/
+binary-data/nppxt/
